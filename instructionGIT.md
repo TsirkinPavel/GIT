@@ -76,5 +76,9 @@ git config --global user.name "ваше имя"
 
 Создать новую ветку:
 ```
-git branch [name new branch]
+git branch [имя новой ветки]
+```
+Посмотреть все ветки и в какой находишься:
+```
+git branch 
 ```
