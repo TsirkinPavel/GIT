@@ -80,11 +80,12 @@ git config --global user.name "ваше имя"
 git branch [name новой ветки]
 ```
 
+Переход между ветками 
+```
+git checkout [имя ветки]
+```
+
 Посмотреть все ветки и местоположение:
 ```
 git branch 
-```
-Переход между ветками 
-```
-git checkout [name ветки]
 ```
