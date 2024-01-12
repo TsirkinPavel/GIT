@@ -72,7 +72,9 @@ git config --global user.email "ваша почта"
 
 git config --global user.name "ваше имя"
 ``` 
-7. Создать новую ветку:
+## Работа с ветками
+
+Создать новую ветку:
 ```
-git branch
+git branch [name new branch]
 ```
